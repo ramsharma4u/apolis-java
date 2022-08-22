@@ -1,2 +1,2 @@
 # apolis-java
-Java gitlab setup
+Java gitlab setup and test
